@@ -171,7 +171,7 @@ export function Landing() {
                   width="400" />
                 <div className="p-4">
                   <h3 className="text-lg font-medium mb-2 text-[#ff6b6b]">Structured Hobo Bag</h3>
-                  <p className="text-[#ff0000] font-bold dark:text-[#ff0000]">₹2549</p>
+                  <p className="text-[#ff0000] font-bold dark:text-[#ff0000]">₹1889</p>
                 </div>
               </div>
             </div>
