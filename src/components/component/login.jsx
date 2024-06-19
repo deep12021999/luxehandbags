@@ -51,10 +51,12 @@ export function Login() {
               <Label htmlFor="password">Password</Label>
               <Input id="password" placeholder="••••••••" required type="password" />
             </div>
+            <Link href="/">
               <Button className="w-full bg-[#ff8c00] hover:bg-[#ff7b00] text-[#f0f0f0] dark:bg-[#ff69b4] dark:hover:bg-[#ff58a4] dark:text-[#2c2c2c]"
               type="submit">
                 Sign in
               </Button>
+              </Link>
             
             <div className="text-center text-sm text-[#7a7a7a] dark:text-[#b0b0b0]">
               Don't have an account?

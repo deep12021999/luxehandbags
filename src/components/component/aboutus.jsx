@@ -41,7 +41,7 @@ export function Aboutus() {
             alt="Luxury Handbag"
             className="rounded-xl object-cover"
             height={600}
-            src="/placeholder.svg"
+            src="/bag14.png"
             style={{
               aspectRatio: "800/600",
               objectFit: "cover",
@@ -63,7 +63,7 @@ export function Aboutus() {
             alt="Craftsmanship"
             className="rounded-xl object-cover"
             height={600}
-            src="/placeholder.svg"
+            src="/bag34.png"
             style={{
               aspectRatio: "800/600",
               objectFit: "cover",
@@ -77,7 +77,7 @@ export function Aboutus() {
             alt="Materials"
             className="rounded-xl object-cover"
             height={600}
-            src="/placeholder.svg"
+            src="/bag35.png"
             style={{
               aspectRatio: "800/600",
               objectFit: "cover",
@@ -107,7 +107,7 @@ export function Aboutus() {
             alt="Design Philosophy"
             className="rounded-xl object-cover"
             height={600}
-            src="/placeholder.svg"
+            src="/bag36.png"
             style={{
               aspectRatio: "800/600",
               objectFit: "cover",

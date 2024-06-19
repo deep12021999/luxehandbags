@@ -112,14 +112,14 @@ export function Landing() {
                   alt="Handbag 1"
                   className="w-full h-64 object-cover"
                   height="400"
-                  src="/bag2.png"
+                  src="/bag20.png"
                   style={{
                     aspectRatio: "400/400",
                     objectFit: "cover",
                   }}
                   width="400" />
                 <div className="p-4">
-                  <h3 className="text-lg font-medium mb-2 text-[#ff6b6b]">Luxe Tote</h3>
+                  <h3 className="text-lg font-medium mb-2 text-[#ff6b6b]">Tote Bags</h3>
                   <p className="text-[#ff0000] font-bold dark:text-[#ff0000]">₹1499</p>
                 </div>
               </div>
@@ -129,14 +129,14 @@ export function Landing() {
                   alt="Handbag 2"
                   className="w-full h-64 object-cover"
                   height="400"
-                  src="/bag3.png"
+                  src="/bag12.png"
                   style={{
                     aspectRatio: "400/400",
                     objectFit: "cover",
                   }}
                   width="400" />
                 <div className="p-4">
-                  <h3 className="text-lg font-medium mb-2 text-[#ff6b6b]">Saffiano Satchel</h3>
+                  <h3 className="text-lg font-medium mb-2 text-[#ff6b6b]">Saffiano Satchel Bag</h3>
                   <p className="text-[#ff0000] font-bold dark:text-[#ff0000]">₹3599</p>
                 </div>
               </div>
@@ -146,14 +146,14 @@ export function Landing() {
                   alt="Handbag 3"
                   className="w-full h-64 object-cover"
                   height="400"
-                  src="/bag4.png"
+                  src="/bag13.png"
                   style={{
                     aspectRatio: "400/400",
                     objectFit: "cover",
                   }}
                   width="400" />
                 <div className="p-4">
-                  <h3 className="text-lg font-medium mb-2 text-[#ff6b6b]">Pebbled Crossbody</h3>
+                  <h3 className="text-lg font-medium mb-2 text-[#ff6b6b]">Pebbled Crossbody Bag</h3>
                   <p className="text-[#ff0000] font-bold dark:text-[#ff0000]">₹1399</p>
                 </div>
               </div>
@@ -163,14 +163,14 @@ export function Landing() {
                   alt="Handbag 4"
                   className="w-full h-64 object-cover"
                   height="400"
-                  src="/bag5.png"
+                  src="/bag32.png"
                   style={{
                     aspectRatio: "400/400",
                     objectFit: "cover",
                   }}
                   width="400" />
                 <div className="p-4">
-                  <h3 className="text-lg font-medium mb-2 text-[#ff6b6b]">Structured Hobo</h3>
+                  <h3 className="text-lg font-medium mb-2 text-[#ff6b6b]">Structured Hobo Bag</h3>
                   <p className="text-[#ff0000] font-bold dark:text-[#ff0000]">₹2549</p>
                 </div>
               </div>

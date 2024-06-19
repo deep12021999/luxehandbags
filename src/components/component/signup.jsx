@@ -66,7 +66,7 @@ export function Signup() {
               <Label htmlFor="confirm-password">Confirm Password</Label>
               <Input id="confirm-password" placeholder="••••••••" required type="password" />
             </div>
-            <Link href="#">
+            <Link href="/">
             <Button
               className="w-full bg-orange-600 hover:bg-orange-700 dark:bg-pink-500 dark:hover:bg-pink-600"
               type="submit">
