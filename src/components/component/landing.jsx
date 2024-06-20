@@ -57,10 +57,12 @@ export function Landing() {
               <SearchIcon className="h-5 w-5 text-[#ffb6c1]" />
               <span className="sr-only">Search</span>
             </Button>
+            <Link href="/addtocart">
             <Button size="icon" variant="ghost">
               <ShoppingCartIcon className="h-5 w-5 text-[#ffb6c1]" />
               <span className="sr-only">Cart</span>
             </Button>
+            </Link>
             <Link href="/login">
               <Button size="icon" variant="ghost">
               <UserIcon className="h-5 w-5 text-[#ffb6c1]" />
@@ -171,7 +173,7 @@ export function Landing() {
                   width="400" />
                 <div className="p-4">
                   <h3 className="text-lg font-medium mb-2 text-[#ff6b6b]">Structured Hobo Bag</h3>
-                  <p className="text-[#ff0000] font-bold dark:text-[#ff0000]">₹1889</p>
+                  <p className="text-[#ff0000] font-bold dark:text-[#ff0000]">₹2549</p>
                 </div>
               </div>
             </div>
